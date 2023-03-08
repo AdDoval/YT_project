@@ -6,4 +6,4 @@ The objective of this project is to analyze the impact that the release of the n
 
 Please reffer to [main.ipynb](main.ipynb) to see the analysis in jupiter notebook.
 
-![Jupyter notebook](img/YT_project.PNG))
+![Jupyter notebook](img/YT_project.PNG)
